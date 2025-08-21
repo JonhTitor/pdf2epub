@@ -13,13 +13,13 @@
 提供以下版本可选：
 
 ### 1. Windows 版
-- pdf2epub_v2.2_win-x64.exe
+- pdf2epub_win-x64.exe
 - 下载后直接双击运行
 
 ### 2. macOS 版
 - 提供 Intel 与 Apple Silicon (M 系列) 两个版本：  
-  - `pdf2epub-2.2-mac-intel.zip`  
-  - `pdf2epub-2.2-mac-arm64.zip`  
+  - `pdf2epub_mac-intel.zip`  
+  - `pdf2epub_mac-arm64.zip`  
 - 下载后解压，得到 `pdf2epub.app`，双击即可运行  
 - **注意**：首次运行可能需要在「系统设置 → 隐私与安全性」中允许打开  
 
