@@ -2,9 +2,9 @@
 
 ![效果图](screenshot.png)
 
-- 一个简单的 PDF 转 EPUB 转换工具，带图形化界面。  
-- 支持漫画类 PDF 转换为 EPUB/CBZ，保持原始图片清晰度。  
-- 支持Windows与macOS
+一个简单的 PDF 转 EPUB 转换工具，带图形化界面。  
+支持漫画类 PDF 转换为 EPUB/CBZ，保持原始图片清晰度。  
+支持Windows与macOS。
 
 ---
 
