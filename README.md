@@ -43,4 +43,6 @@
   2. 或在终端执行：  
      ```bash
      xattr -cr /路径/pdf2epub.app
-     ```  
+     ```
+     
+---
